@@ -11,5 +11,10 @@ namespace SampleProject
         {
             Console.WriteLine("This is a print command");
         }
+        [TestMethod]
+        public void printSecond()
+        {
+            Console.WriteLine("This is a print command");
+        }
     }
 }
