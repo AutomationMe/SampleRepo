@@ -1,0 +1,6 @@
+E:\Learning\GitLearn\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.dll
+E:\Learning\GitLearn\SampleProject\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+E:\Learning\GitLearn\SampleProject\SampleProject\SampleProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Learning\GitLearn\SampleProject\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+E:\Learning\GitLearn\SampleProject\SampleProject\SampleProject\obj\Debug\SampleProject.dll
+E:\Learning\GitLearn\SampleProject\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
