@@ -9,7 +9,7 @@ namespace SampleProject
         [TestMethod]
         public void printFirst()
         {
-            Console.WriteLine("This is a print command");
+            Console.WriteLine("This is a print commannd");
         }
     }
 }
